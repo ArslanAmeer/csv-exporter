@@ -1,0 +1,28 @@
+{
+  "name": "@arslanameer/csv-exporter",
+  "version": "1.0.0",
+  "description": "Downloads a CSV file from given JSON data",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "converter",
+    "export",
+    "download",
+    "utility",
+    "json-to-csv",
+    "data-conversion",
+    "file-generation",
+    "data-export"
+  ],
+  "author": "Arslan Ameer",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
