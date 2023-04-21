@@ -24,5 +24,13 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArslanAmeer/csv-exporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArslanAmeer/csv-exporter/issues"
+  },
+  "homepage": "https://github.com/ArslanAmeer/csv-exporter#readme"
 }
