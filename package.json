@@ -1,6 +1,6 @@
 {
   "name": "csv-exporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Downloads a CSV file from given JSON data",
   "main": "dist/index.js",
   "module": "dist/index.js",
