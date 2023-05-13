@@ -1,6 +1,6 @@
 {
   "name": "csv-exporter-utility",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Downloads a CSV file from given JSON data",
   "main": "dist/index.js",
   "module": "dist/index.js",
