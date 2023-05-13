@@ -1,5 +1,5 @@
 {
-  "name": "@arslanameer/csv-exporter",
+  "name": "csv-exporter",
   "version": "1.0.0",
   "description": "Downloads a CSV file from given JSON data",
   "main": "dist/index.js",

@@ -23,13 +23,13 @@ CSV Exporter Utility is a simple, yet powerful package that allows you to easily
 1. Install the package using npm or yarn:
 
 ```bash
-npm install @arslanameer/csv-exporter-utility
+npm install csv-exporter-utility
 ```
 
 2. Import the `downloadCSVFile` function from the package:
 
 ```typescript
-import { downloadCSVFile } from "@arslanameer/csv-exporter-utility";
+import { downloadCSVFile } from "csv-exporter-utility";
 ```
 
 3. Use the `downloadCSVFile` function in your application to convert and download JSON data as a CSV file:
