@@ -1,6 +1,6 @@
 {
   "name": "csv-exporter-utility",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Downloads a CSV file from given JSON data",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -18,7 +18,8 @@
     "json-to-csv",
     "data-conversion",
     "file-generation",
-    "data-export"
+    "data-export",
+    "browser"
   ],
   "author": "Arslan Ameer",
   "license": "ISC",
